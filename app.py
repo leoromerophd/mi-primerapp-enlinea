@@ -1,6 +1,7 @@
 import streamlit as st
 import yfinance as yf
 import matplotlib.pyplot as plt
+import seaborn as sb
 
 
 st.title("Mi primer app en línea")

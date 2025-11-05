@@ -1,1 +1,13 @@
+# Entorno virtual
+venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno
 .env
+
+# Ignora gacho  la Guía Online 
+
+GuiaAppOnline.md
